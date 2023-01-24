@@ -1,0 +1,4 @@
+Flask==2.1.2 # list all dependencies
+numpy
+surprise
+pandas
